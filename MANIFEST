@@ -8,6 +8,8 @@ MANIFEST			This list of files
 README
 t/Alien-bc-GNU/01-use.t
 t/Alien-bc-GNU/02-version.t
+t/Alien-bc-GNU/03-diag.t
 t/Alien-bc-GNU/03-exe.t
+t/Alien-bc-GNU/04-exe.t
 xt/Alien-bc-GNU/01-pod_coverage.t
 xt/Alien-bc-GNU/02-pod.t

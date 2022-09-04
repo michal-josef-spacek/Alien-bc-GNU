@@ -1,9 +1,10 @@
 TODO
 ====
 1. Author tests to Makefile.PL
-2. Add diag.
 3. Check GNU bc, could be installed another bc
 4.
 
 Applied
 =======
+2. Add diag.
+OK [20220904] skim

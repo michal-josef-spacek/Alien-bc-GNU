@@ -34,7 +34,7 @@ my %WriteMakefileArgs = (
 	( ! exists $ENV{CI} ? ( 'SIGN' => 1 ) : () ),
 	'TEST_REQUIRES' => {
 		'Test::Alien' => 0,
-		'Test::Alien::Diag' => 0,
+		'Test::Alien::Diag' => 2.67,
 		'Test::More' => 0,
 		'Test::NoWarnings' => 0,
 	},
