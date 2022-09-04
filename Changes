@@ -1,6 +1,7 @@
 0.02
  - Add alien_diag() to tests.
  - Fix abstract.
+ - Fix missing ed command.
 
 0.01 2022-09-02T23:15:44+02:00
  - First version.

@@ -5,6 +5,8 @@ plugin 'Probe::CommandLine' => (
 );
 
 share {
+	requires 'Alien::ed::GNU' => '0';
+
 	start_url 'https://ftp.gnu.org/gnu/bc/';
 
 	plugin 'Download' => (
