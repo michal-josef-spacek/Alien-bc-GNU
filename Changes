@@ -1,4 +1,5 @@
 0.03
+ - Fix MANIFEST file.
 
 0.02 2022-09-04T14:18:47+02:00
  - Add alien_diag() to tests.
