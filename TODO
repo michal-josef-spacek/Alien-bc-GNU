@@ -1,8 +1,8 @@
 TODO
 ====
 1. Author tests to Makefile.PL
-6. In case of system ed get version and set to Alien
-7. In case of system ed example doesn't work properly.
+6. In case of system bc get version and set to Alien
+7. In case of system bc example doesn't work properly.
 8. Download filter to version like bc-.... (as Alien::ed::GNU)
 9.
 
