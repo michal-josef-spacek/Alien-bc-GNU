@@ -1,8 +1,6 @@
 TODO
 ====
 1. Author tests to Makefile.PL
-5. Remove creating of info pages (makeinfo). We don't need.
-bc haven't something --disable-doc
 6. In case of system ed get version and set to Alien
 7. In case of system ed example doesn't work properly.
 8. Download filter to version like bc-.... (as Alien::ed::GNU)
@@ -19,3 +17,7 @@ OK [20220904] skim
 
 3. Check GNU bc, could be installed another bc
 OK [20220904] skim
+
+5. Remove creating of info pages (makeinfo). We don't need.
+bc haven't something --disable-doc
+OK [20220905] skim

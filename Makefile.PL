@@ -10,6 +10,7 @@ my %WriteMakefileArgs = (
 	'BUILD_REQUIRES' => {
 		'Alien::Build::MM' => '0.32',
 		'Alien::ed::GNU' => 0,
+		'Alien::Texinfo' => 0,
 		'ExtUtils::MakeMaker' => '6.76',
 	},
 	'CONFIGURE_REQUIRES' => {
