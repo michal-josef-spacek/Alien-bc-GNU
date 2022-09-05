@@ -1,4 +1,4 @@
-0.03
+0.03 2022-09-05T11:58:15+02:00
  - Detect version of bc and GNU bc.
  - Fix example in doc.
  - Fix MANIFEST file.
