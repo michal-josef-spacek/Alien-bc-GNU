@@ -14,7 +14,7 @@ share {
 	start_url 'https://ftp.gnu.org/gnu/bc/';
 
 	plugin 'Download' => (
-		filter  => qr/(\d\.)+\d\.tar\.gz$/,
+		filter => qr/^bc-.*\.tar\.gz$/,
 		version => qr/([0-9\.]+)/,
 		prefer  => 1,
 	);

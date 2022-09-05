@@ -3,6 +3,7 @@
  - Fix example in doc.
  - Fix MANIFEST file.
  - Fix missing texinfo command.
+ - Improve path to bc source tar.gz.
 
 0.02 2022-09-04T14:18:47+02:00
  - Add alien_diag() to tests.

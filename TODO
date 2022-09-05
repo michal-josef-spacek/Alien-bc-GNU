@@ -1,7 +1,6 @@
 TODO
 ====
 1. Author tests to Makefile.PL
-8. Download filter to version like bc-.... (as Alien::ed::GNU)
 9.
 
 Applied
@@ -24,4 +23,7 @@ OK [20220905] skim
 OK [20220905] skim
 
 7. In case of system bc example doesn't work properly.
+OK [20220905] skim
+
+8. Download filter to version like bc-.... (as Alien::ed::GNU)
 OK [20220905] skim
