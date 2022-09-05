@@ -1,7 +1,6 @@
 TODO
 ====
 1. Author tests to Makefile.PL
-7. In case of system bc example doesn't work properly.
 8. Download filter to version like bc-.... (as Alien::ed::GNU)
 9.
 
@@ -22,4 +21,7 @@ bc haven't something --disable-doc
 OK [20220905] skim
 
 6. In case of system bc get version and set to Alien
+OK [20220905] skim
+
+7. In case of system bc example doesn't work properly.
 OK [20220905] skim
